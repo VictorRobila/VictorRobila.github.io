@@ -89,6 +89,12 @@ p{
     gap: 50;
     
 }
+.videos1 {
+    display: flex;
+    justify-content: space-around;
+    gap: 50;
+    
+}
 
 .video {
     width: 32%;
@@ -100,6 +106,17 @@ p{
     
     
 }
+.video1 {
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
 
 
 .video iframe {
